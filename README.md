@@ -1,4 +1,4 @@
-# Day 28 GitHun profiles
+# Day 28 GitHub profiles
 
 This is the github profiles project from the course '50 projects in 50 days'
 
